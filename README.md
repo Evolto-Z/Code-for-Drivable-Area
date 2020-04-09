@@ -1,4 +1,4 @@
-# Code-for-Drivable-area
+# Code-for-Drivable-Area
 This is a graduation project, thus, maybe not good enough.  
 For now, net_beta is recommended in models.  
 ├─checkpoints  
